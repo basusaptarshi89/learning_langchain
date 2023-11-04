@@ -1,0 +1,10 @@
+langchain
+langchain_experimental
+openai
+google-generativeai
+jupyterlab
+notebook
+ipywidgets
+
+
+
