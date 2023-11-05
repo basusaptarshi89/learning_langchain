@@ -5,6 +5,4 @@ google-generativeai
 jupyterlab
 notebook
 ipywidgets
-
-
-
+psycopg2-binary
